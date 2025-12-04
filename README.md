@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Hamdani  👋
+
+![Hamdani](img/github-header-banner.png)
 
 <!--
 **Hamdani-10/Hamdani-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
