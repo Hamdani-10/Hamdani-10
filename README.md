@@ -1,33 +1,31 @@
-## Hi there! I'm Hamdani  👋
+## Hi there! I'm Hamdani 👋
 
-![Hamdani](img/github-header-banner.png)
+![Header](img/github-header-banner.png)
 
-#### Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+I'm a Fullstack developer who focuses on building clean, maintainable, and scalable applications. Working mainly with Laravel, Tailwind CSS, and modern JavaScript tools.
 
-#### Connect with me
-![https://www.instagram.com/_sepertibiasa?igsh=OXlyaXp4dHZ0eXZq](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+---
 
-<!--
-**Hamdani-10/Hamdani-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,alpinejs,mysql,unity,postman,figma&perline=6" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+<a href="https://www.instagram.com/_sepertibiasa">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/hamdani-698bb9288">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" />
+</a>
+
+
+---
+
+## Fun Fact
+I love solving bugs, especially the ones I accidentally created myself.
+
